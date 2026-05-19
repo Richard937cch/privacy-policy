@@ -1,6 +1,5 @@
-# privacy-policy
-
-This privacy policy applies to the Balloon Boom app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+Privacy Policy
+This privacy policy applies to the Balloon Boom app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 
 Information Collection and Use
@@ -30,6 +29,7 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 Google Play Services (https://policies.google.com/privacy)
+Unity (https://unity.com/cn/legal/privacy-policy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -68,5 +68,4 @@ By using the Application, you are consenting to the processing of your informati
 
 
 Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at 
-cchuang937@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at cchuang937@gmail.com.
